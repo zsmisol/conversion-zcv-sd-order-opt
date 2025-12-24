@@ -1,0 +1,3 @@
+FUNCTION-POOL Z_DEMO_AI_SD_PRICE_READ.      "MESSAGE-ID ..
+
+* INCLUDE LZ_DEMO_AI_SD_PRICE_READD...       " Local class definition
