@@ -5,6 +5,8 @@
 * This program and its related objects were deliberately created
 * as part of an AI demonstration project for S/4HANA conversion.
 * Any changes, deletions, or transports are strictly not allowed.
+" GitHub üzerinden yapılan ABAP deneme değişikliğidir
+" Kod mantığı değiştirilmemiştir
 *&---------------------------------------------------------------------*
 REPORT ZDEMO_AI_SD_ORDER_READ.
 
